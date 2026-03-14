@@ -1,0 +1,22 @@
+{
+  "name": "AgapMD",
+  "short_name": "AgapMD",
+  "description": "Emergency care navigation for the Philippines — find clinics, vets, hospitals, and pharmacies near you with AI-powered triage.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0A0F1C",
+  "theme_color": "#0A0F1C",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 192 192'><rect width='192' height='192' rx='40' fill='%2310B981'/><path d='M96 30L50 48v48c0 40 27 77 46 86 19-9 46-46 46-86V48L96 30zm-8 118h16v16H88v-16zm0-64h16v48H88V84z' fill='white'/></svg>",
+      "sizes": "192x192",
+      "type": "image/svg+xml"
+    },
+    {
+      "src": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 512 512'><rect width='512' height='512' rx='100' fill='%2310B981'/><path d='M256 80L134 128v128c0 106 72 206 122 230 50-24 122-124 122-230V128L256 80zm-22 316h44v44h-44v-44zm0-172h44v128h-44V224z' fill='white'/></svg>",
+      "sizes": "512x512",
+      "type": "image/svg+xml"
+    }
+  ]
+}
